@@ -15,6 +15,7 @@ Outputs the elements of the resulting 3x3 matrix sequentially via a 16-bit outpu
 ## Completion Signal:
 A done signal indicates when the computation is complete.
 ## I/O Ports
+
 ## Inputs
 ## Signal Name	Width	Description
 1. clk	1-bit	Clock signal for synchronizing operations.
